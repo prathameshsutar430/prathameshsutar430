@@ -63,31 +63,15 @@ Designed static and responsive web pages using HTML, CSS, and Bootstrap for prac
 ## 📈 I'm Open To
 - Python Developer Intern  
 - Data Analyst Intern  
-- Web Developer (Frontend/HTML/CSS/Bootstrap)  
-- Embedded Systems Intern  
+- Web Developer
 - SQL/Data Cleaning/Visualization Roles  
-- Business Intelligence Analyst  
 
 ---
 
 ## 📬 Contact Me
-📧 Email: prathameshnarayansutar@gmail.com  
-💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/prathameshnarayansutar/)  
-🖥️ GitHub: [GitHub Profile](https://github.com/prathamesh-narayan-sutar)  
-
----
-
-## ✨ Fun Fact  
-"I'm always excited to convert my curiosity into code!" 🚀
-
----
-
-## 📊 My GitHub Journey
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathamesh-narayan-sutar&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=prathamesh-narayan-sutar&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-narayan-sutar&layout=compact&theme=tokyonight)
-
+📧 Email: prathameshsutar430@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/prathamesh-sutar-33a7a0362
+🖥️ GitHub: https://github.com/prathameshsutar430
 ---
 
 > “Learning never exhausts the mind. The more I learn, the more I create.” 💡
