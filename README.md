@@ -59,8 +59,8 @@ Designed static and responsive web pages using HTML, CSS, and Bootstrap for prac
 ---
 
 Email: prathameshsutar430@gmail.com  
-LinkedIn: www.linkedin.com/in/prathamesh-sutar-33a7a0362
-GitHub: https://github.com/prathameshsutar430
+GitHub: https://github.com/prathameshsutar430 
+LinkedIn: www.linkedin.com/in/prathamesh-sutar-33a7a0362 
 ---
 
 > “Learning never exhausts the mind. The more I learn, the more I create.” 💡
