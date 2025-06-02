@@ -4,22 +4,20 @@ Aspiring Data Analyst | Python Developer | Web Developer | Electronics Enthusias
 ---
 
 ## 👨‍💻 About Me
-🎯 A curious and motivated individual with a strong foundation in Python, C++, Data Analysis, and Embedded Systems.  
+🎯 A curious and motivated individual with a strong foundation in Python, Data Analysis, and Web Development.  
 🌟 Passionate about learning technologies like Data Science, Web Development, and AI/ML.  
-🚀 Always exploring innovative ideas and building solutions with real-world impact.
+🚀 Always exploring new tech, innovative ideas and building solutions with real-world impact.
 
 ---
 
 ## 🛠️ Skills
 
 ### 🚀 Technical Skills
-- **Programming Languages:** Python, C++, SQL, HTML, CSS  
-- **Web Technologies:** HTML, CSS, Bootstrap  
-- **Data Analysis Tools:** Excel, Power BI, Pandas, NumPy  
-- **Database Management:** MySQL, DBMS  
-- **Embedded Systems:** Atmega32, Arduino  
+- **Programming Languages:** Python
+- **Web Technologies:** HTML, CSS, Bootstrap, JavaScript  
+- **Data Analysis Tools:** Power BI, Pandas, NumPy
 - **Version Control:** Git, GitHub  
-- **Development Tools:** VS Code, Excel, Power BI  
+- **Tools:** VS Code, Excel
 
 ### 🌟 Soft Skills
 - Strong Communication & Team Collaboration  
@@ -31,19 +29,11 @@ Aspiring Data Analyst | Python Developer | Web Developer | Electronics Enthusias
 ## 🎓 Education
 🎓 **B.Tech in Electronics & Telecommunication Engineering**  
 Sharad Institute of Technology College of Engineering, Yadrav  
-📈 CGPA: 7.74 | 🗓️ Graduation Year: 2025  
+📈 CGPA: 7.74 | 🗓️ Graduation Year: 2024  
 
 🎓 **Diploma in Electronics & Telecommunication Engineering**  
 Sharad Institute of Technology Polytechnic, Yadrav  
-📈 Percentage: 88.82% | 🗓️ Completion Year: 2020  
-
----
-
-## 🏆 Certifications
-- ✅ Python for Beginners – Great Learning  
-- ✅ NumPy and Pandas – SkillUp by Simplilearn  
-- ✅ Data Visualization – Great Learning  
-- ✅ Embedded Systems (Microcontroller) – Capricot Technologies  
+📈 Percentage: 88.82% | 🗓️ Completion Year: 2021
 
 ---
 
@@ -52,10 +42,10 @@ Sharad Institute of Technology Polytechnic, Yadrav
 🛠️ **Vehicle Black Box and Security System (Final Year Project)**  
 A microcontroller-based system using Atmega32 to collect vehicle data, detect incidents, and alert emergency contacts.  
 
-📊 **Data Cleaning & Analysis Projects**  
-Performed data preprocessing, visualization, and transformation using Excel, Pandas, and Power BI.  
+📊 **Sales Data Analysis**  
+Performed data preprocessing, visualization, and transformation using Excel, Numpy, Pandas, and Power BI.  
 
-🌐 **Web Portfolio & Mini Projects**  
+🌐 **GreenLife A Plant Retail Website**  
 Designed static and responsive web pages using HTML, CSS, and Bootstrap for practice and showcasing work.  
 
 ---
